@@ -1,0 +1,7 @@
+Added Component: Designator=C?(CAP-SM-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TPS63802)
+Add component. Clean all parameters for all variants
+Added Class: Name=Buck_Boost
+Added Room: Name=Buck_Boost

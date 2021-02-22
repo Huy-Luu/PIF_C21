@@ -1,0 +1,12 @@
+Added Component: Designator=U?(LM2596)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetU?_1 Pin=U?-1
+Added Pin To Net: NetName=NetU?_1 Pin=U?-2
+Added Pin To Net: NetName=NetU?_1 Pin=U?-4
+Added Net: Name=NetU?_1
+Added Pin To Net: NetName=NetU?_3 Pin=U?-3
+Added Pin To Net: NetName=NetU?_3 Pin=U?-5
+Added Pin To Net: NetName=NetU?_3 Pin=U?-6
+Added Net: Name=NetU?_3
+Added Member To Class: ClassName=Buck Member=Component U? XL6009
+Added Room: Name=Buck

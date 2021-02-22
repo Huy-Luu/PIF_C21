@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-2
+Added Component: Designator=C1(CAP-SM-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "100nF/16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Member To Class: ClassName=Buck Member=Component C3 Cap Non-Pol SMD
+Added Member To Class: ClassName=Buck Member=Component C4 Cap Non-Pol SMD
+Added Member To Class: ClassName=Buck Member=Component R1 RESISTOR SMD
+Added Member To Class: ClassName=Buck Member=Component R2 RESISTOR SMD

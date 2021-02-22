@@ -1,0 +1,5 @@
+Added Component: Designator=U?(LM2596)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Buck Member=Component C4 Cap Pol
+Added Member To Class: ClassName=Buck Member=Component U? XL6009
+Added Room: Name=Buck

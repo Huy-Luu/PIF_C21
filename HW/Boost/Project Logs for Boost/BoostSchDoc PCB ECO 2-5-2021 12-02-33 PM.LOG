@@ -1,0 +1,4 @@
+Change Component Comment : Designator=D? Old Comment=D Schottky New Comment=Zener
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Added Room: Name=BoostSchDoc
